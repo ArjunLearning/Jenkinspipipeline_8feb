@@ -8,5 +8,8 @@ public class MultiplyTwoNumbers {
         float product = first * second;
 
         System.out.println("The product is: " + product);
+
+        // 👇 YE LINE ADD KARO
+        System.out.println("Build triggered from Jenkins!");
     }
 }
